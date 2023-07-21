@@ -18,4 +18,4 @@ Gaussian Bayes, Decision Tree y Random Forest
 El Notebook está disponible en el [repositorio](https://github.com/UntetheredJ/AI-Project-Terrorism/blob/main/Proyecto_IA.ipynb) y también en [Google Colab](https://colab.research.google.com/drive/1rUYOftuBa8iAMaCDN65oRRoAbih9WHMC?usp=sharing)
 
 ## Vídeo
-El video puede encontrarse en [YouTube](www.youtube.com).
+El video puede encontrarse en [YouTube](https://youtu.be/MoDzpWjk2zA).
